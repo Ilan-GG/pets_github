@@ -1,39 +1,34 @@
 {
   "pets": [
     {
-      "id": 1,
-      "name": "Buddy",
-      "breed": "Golden Retriever",
-      "age": 3,
-      "description": "Friendly and energetic golden retriever who loves playing fetch"
-    },
-    {
-      "id": 2,
-      "name": "Luna",
-      "breed": "Siamese Cat",
-      "age": 2,
-      "description": "Elegant and vocal Siamese cat who enjoys sunbathing"
-    },
-    {
-      "id": 3,
-      "name": "Max",
-      "breed": "German Shepherd",
-      "age": 5,
-      "description": "Loyal and protective German Shepherd, great with families"
-    },
-    {
-      "id": 4,
-      "name": "Bella",
-      "breed": "Persian Cat",
-      "age": 4,
-      "description": "Fluffy Persian cat who loves being groomed and pampered"
-    },
-    {
-      "id": 5,
-      "name": "Charlie",
-      "breed": "Beagle",
-      "age": 1,
-      "description": "Curious and playful beagle puppy with lots of energy"
-    }
+            "id": 1,
+            "name": "Frit",
+            "breed": "Golden Retriever",
+            "age": 15,
+            },
+            {
+            "id": 2,
+            "name": "Tommy",
+            "breed": "Chihuahua",
+            "age": 6
+            },
+            {
+            "id": 3,
+            "name": "Tina",
+            "breed": "Chihuahua",
+            "age": 9
+            },
+            {
+            "id": 4,
+            "name": "Hashy",
+            "breed": "Gato Americano de Pelo Corto",
+            "age": 4
+            },
+            {
+            "id": 5,
+            "name": "Reyla",
+            "breed": "Chihuahua",
+            "age": 1
+            }
   ]
 }
