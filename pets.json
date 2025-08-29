@@ -1,0 +1,34 @@
+{
+    "pets": [
+        {
+            "id": 1,
+            "name": "Frit",
+            "breed": "Golden Retriever",
+            "age": 15,
+            },
+            {
+            "id": 2,
+            "name": "Tommy",
+            "breed": "Chihuahua",
+            "age": 6
+            },
+            {
+            "id": 3,
+            "name": "Tina",
+            "breed": "Chihuahua",
+            "age": 9
+            },
+            {
+            "id": 4,
+            "name": "Hashy",
+            "breed": "Gato Americano de Pelo Corto",
+            "age": 4
+            },
+            {
+            "id": 5,
+            "name": "Reyla",
+            "breed": "Chihuahua",
+            "age": 1
+            }
+    ]
+}
